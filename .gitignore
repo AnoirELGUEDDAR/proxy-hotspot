@@ -1,0 +1,10 @@
+# Ignore the actual config file with real credentials
+config/config.sh
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
