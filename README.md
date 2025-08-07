@@ -50,7 +50,7 @@ This project provides a set of shell scripts to easily set up a **transparent Wi
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/proxy-hotspot.git
+git clone https://github.com/AnoirELGUEDDAR/proxy-hotspot.git
 cd proxy-hotspot
 ```
 
