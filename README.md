@@ -146,12 +146,6 @@ sudo ./scripts/create_autostart.sh
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE).
-
----
-
 ## Maintainer
 
 Anoir EL GUEDDAR  
